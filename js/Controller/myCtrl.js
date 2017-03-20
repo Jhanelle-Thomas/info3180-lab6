@@ -13,6 +13,6 @@ app.controller("myCtrl", function($scope) {
 	
 	$scope.removeItem = function(index) {
 	    $scope.errortext = "";
-	    $scope.products.splice(x,1);
+	    $scope.products.splice(index,1);
 	}
 });
