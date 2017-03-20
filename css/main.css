@@ -1,0 +1,39 @@
+.container {
+    border: 2px solid #d9d9d9;
+    width: 500px;
+    border-radius: 4px;
+    font-family: Verdana,sans-serif;
+}
+
+.endblock {
+    background-color: #d9d9d9;
+    padding: 7px;
+}
+
+.item {
+    border-width: 1px 0px 1px 1px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    height: 20px;
+    padding: 15px;
+}
+
+button {
+    background-color: #00b300;
+    margin-right: 0px;
+    height: 38px;
+    width: 55px;
+    font-weight: bold;
+    color: white;
+}
+
+input {
+    height: 30px;
+    margin-left: 30px;
+    margin-right: 0px;
+}
+
+span {
+    float: right;
+    margin: 5px;
+}
